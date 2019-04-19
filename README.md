@@ -12,4 +12,5 @@ A Flutter App which takes input of Customer Data and Uploads it to Firebase
     1) Taking Multiple Images for Customer
     2) Taking Video as Input for Customer
     3) Google Picked Address
+    4)  Authentication for field staff
 
